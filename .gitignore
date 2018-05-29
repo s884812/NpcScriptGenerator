@@ -1,0 +1,8 @@
+/nbproject/private/
+/build/
+/dist/
+/nbproject/*
+build.xml
+manifest.mf
+.DS_Store
+/test/
